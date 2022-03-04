@@ -2,7 +2,7 @@ Part 1: Write your message here from GitHub
 hello world.
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+git fetch download any changes from the remote repository without affecting local files
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 
