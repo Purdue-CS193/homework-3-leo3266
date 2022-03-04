@@ -5,4 +5,6 @@ Task 1:
 git fetch download any changes from the remote repository without affecting local files
 Task 2:
 // Under this line, describe the difference between Git and GitHub
+git is an developer tool that can locally manage the souce code.
+github is online service platform where Git users can connect.
 
